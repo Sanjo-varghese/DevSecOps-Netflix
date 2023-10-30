@@ -21,7 +21,8 @@
 
 
 # Architecture- Infrastructure
-- ![net flix](https://github.com/Sanjo-varghese/DevSecOps-Netflix/assets/116708794/271f3d92-026a-4383-ab84-859d86cc2303)
+- ![net flix](https://github.com/Sanjo-varghese/DevSecOps-Netflix/assets/116708794/68d23017-486c-437d-868d-04507a031a2b)
+
 
 
 
