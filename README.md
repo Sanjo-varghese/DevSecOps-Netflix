@@ -28,10 +28,10 @@
 # Netflix clone web application and deploying it on a Kubernetes cluster- DevSecOps Project!
 ![vg](https://github.com/Sanjo-varghese/DevSecOps-Netflix/assets/116708794/7b8af0b4-b062-453d-a7da-d9ec67d5841d)
 
- # **Project Overview**
+ # **Project Overview:-**
 - We will be deploying a Netflix clone. We will be using Jenkins as a CICD tool and deploying our application on a Docker container and Kubernetes Cluster and we will monitor the Jenkins and Kubernetes metrics using Grafana, Prometheus and Node exporter.
  
-### **Project Steps**
+### **Project Steps:-**
 
 **Step : Launch EC2 (Ubuntu 22.04):**
 
