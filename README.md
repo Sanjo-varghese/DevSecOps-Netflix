@@ -29,7 +29,7 @@
 ![vg](https://github.com/Sanjo-varghese/DevSecOps-Netflix/assets/116708794/7b8af0b4-b062-453d-a7da-d9ec67d5841d)
 
  # **Project Overview:-**
-- We will be deploying a Netflix clone. We will be using Jenkins as a CICD tool and deploying our application on a Docker container and Kubernetes Cluster and we will monitor the Jenkins and Kubernetes metrics using Grafana, Prometheus and Node exporter.
+- We will be deploying a Netflix clone application using Jenkins as a CICD tool and deploying our application on a Docker container and Kubernetes Cluster and we will monitor the Jenkins and Kubernetes metrics using Grafana, Prometheus and Node exporter.
  
 ### **Project Steps:-**
 
@@ -753,5 +753,5 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
    - To Access the app make sure port 30007 is open in your security group and then open a new tab paste your NodeIP:30007, your app should be running.
 
 - Thanks
-- **Sanjo Vaarghese**
+- **Sanjo Varghese**
 
